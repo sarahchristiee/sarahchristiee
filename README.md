@@ -5,7 +5,7 @@
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## 👩‍💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,c,javascript,html,css)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css)](https://skillicons.dev)<br><br>
 
 ## 🖥 Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,bootstrap,git,github,figma)](https://skillicons.dev)<br><br>
