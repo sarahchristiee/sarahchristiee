@@ -1,7 +1,7 @@
 # Bem-vindos ao meu perfil GitHub 👋
 ## ✨ Sobre mim
 - Meu nome é Sarah Christie;
-- Tenho 19 anos.
+- Tenho 20 anos.
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## 👩‍💻 Linguagens
@@ -40,6 +40,7 @@ Projetos em destaque: em breve
 </p>
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/sarahchristiee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 Algumas Estatísticas
