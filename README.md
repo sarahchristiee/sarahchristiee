@@ -40,12 +40,12 @@ Projetos em destaque: em breve
 </p>
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/sarahchristiee)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 📊 Algumas Estatísticas
 ![{usuario} GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahchristiee&show_icons=true&theme=synthwave)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
