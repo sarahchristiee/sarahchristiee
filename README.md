@@ -45,8 +45,6 @@ Projetos em destaque: em breve
 
 ## 📊 Algumas Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahchristiee&layout=compact)](https://github.com/sarahchristiee/github-readme-stats)  <br><br>
-![{username} GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahchristiee&show_icons=true&theme=synthwave)
-
 
 
 
