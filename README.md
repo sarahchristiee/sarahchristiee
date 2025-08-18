@@ -4,11 +4,11 @@
 - Tenho 20 anos.
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 
-## 👩‍💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css)](https://skillicons.dev)<br><br>
+## 👩‍💻 Linguagens, Bibliotecas e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,react,django)](https://skillicons.dev)<br><br>
 
 ## 🖥 Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,bootstrap,git,github,figma)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,figma,vite)](https://skillicons.dev)<br><br>
 
 ## 🎯 Objetivos
 - Quero me formar em desenvolvimeto de sistemas;
