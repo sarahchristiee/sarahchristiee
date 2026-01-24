@@ -5,7 +5,7 @@
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## 👩‍💻 Linguagens, Bibliotecas e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,react,django)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,react,angular,django,python,)](https://skillicons.dev)<br><br>
 
 ## 🖥 Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,figma,vite)](https://skillicons.dev)<br><br>
@@ -15,16 +15,14 @@
 - Minha meta profissional é me tornar desenvolvedora fullstack!
 
 ## 🗂️ Experiências Acadêmicas
-- Estudando no 5° período de tecnólogo em ADS na instituição Anhanguera (2023 jul - 2025 dez);
+- Formada em ensino superior tecnólogo em desenvolviento de sistemas (2023 jul - 2025 dez);
 - E 2° semestre no técnico em desenvolvimento de sistemas na instituição Senai (2025 jan - 2026 jul).
 
 ## 💼 Experiência de Trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQG9V8ylf9r--g/company-logo_200_200/company-logo_200_200/0/1720017140973/boschbrasil_logo?e=2147483647&v=beta&t=gbzhM1HLv9AknVq28R-oe8mTEshmCOUr8ldqlVskYKU"/>](https://www.spacex.com/)
 
 **Digital Solutions** \
-[**Bosch**](https://www.bosch.com.br/) • Aprendiz \
-Linguagens & Tecnologias: `Python`, `JavaScript`\
-Projetos em destaque: em breve
+[**Bosch**](https://www.bosch.com.br/) • Aprendiz de soluções digitais \
 <br/>
 
 
