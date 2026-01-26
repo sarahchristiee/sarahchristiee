@@ -5,7 +5,7 @@
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## 👩‍💻 Linguagens, Bibliotecas e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,react,angular,django,python,materialui)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,nextjs,nodejs,typescript,html,css,react,angular,tailwind,materialui,python,django,fastapi)](https://skillicons.dev)<br><br>
 
 ## 🖥 Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github,figma,vite)](https://skillicons.dev)<br><br>
