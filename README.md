@@ -28,7 +28,7 @@
 
 
 ## 📊 Algumas Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahchristiee&layout=compact)](https://github.com/sarahchristiee/github-readme-stats)  <br><br>
+<img src="https://streak-stats.demolab.com?user=sarahchristiee&theme=tokyonight" /> <br> <br>
 
 
 **Volte sempre! 🙃**
