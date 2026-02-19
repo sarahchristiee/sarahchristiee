@@ -28,7 +28,9 @@
 
 
 ## 📊 Algumas Estatísticas
-<img src="https://streak-stats.demolab.com?user=sarahchristiee&theme=tokyonight" /> <br> <br>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarahchristiee&theme=tokyonight" />
+<br>
+<img src="https://streak-stats.demolab.com?user=sarahchristiee&theme=tokyonight" />
+<br>
 
 **Volte sempre! 🙃**
