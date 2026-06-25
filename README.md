@@ -15,8 +15,8 @@
 - Minha meta profissional é me tornar desenvolvedora fullstack!
 
 ## 🗂️ Experiências Acadêmicas
-- Formada em ensino superior tecnólogo em desenvolviento de sistemas (2023 jul - 2025 dez);
-- E 3° semestre no técnico em desenvolvimento de sistemas na instituição Senai (2025 jan - 2026 jul).
+- Ensino superior tecnólogo em desenvolviento de sistemas (2023 jul - 2025 dez);
+- Técnico em desenvolvimento de sistemas na instituição Senai (2025 jan - 2026 jul).
 
 ## 💼 Experiência de Trabalho
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQG9V8ylf9r--g/company-logo_200_200/company-logo_200_200/0/1720017140973/boschbrasil_logo?e=2147483647&v=beta&t=gbzhM1HLv9AknVq28R-oe8mTEshmCOUr8ldqlVskYKU"/>](https://www.spacex.com/)
