@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,react,angular,tailwind,nextjs,nodejs,materialui,electron,python,django,fastapi)](https://skillicons.dev)<br><br>
 
 ## 🖥 Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,git,github,figma,vite)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,mysql,sqlite,git,github,figma,vite,docker,azure)](https://skillicons.dev)<br><br>
 
 ## 🎯 Objetivos
 - Quero me formar em desenvolvimeto de sistemas;
